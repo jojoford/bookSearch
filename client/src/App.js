@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
-
+// add these two library import statements ApolloProvider, is a special type of React component that we'll use to provide data to all of the other components. We'll use the second, ApolloClient, to get that data when we're ready to use it.
 import { ApolloProvider } from '@apollo/react-hooks';
 import ApolloClient from 'apollo-boost';
 
