@@ -10,7 +10,7 @@ Modify the existing authentication middleware so that it works in the context of
 
 Create an Apollo Provider so that requests can communicate with an Apollo Server.
 
-Deploy the application to Heroku. Deployed app  https://pure-refuge-64079.herokuapp.com/
+Deploy the application to Heroku. [click me!](https://pure-refuge-64079.herokuapp.com/)
 
 ## Built With
 Apollo
