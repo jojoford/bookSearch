@@ -19,3 +19,12 @@ GraphQL
 
 React
 
+## screenshot
+[![screenshot-mern-21.jpg](https://i.postimg.cc/x1p1bbyC/screenshot-mern-21.jpg)](https://postimg.cc/PCZjgJ7s)
+
+
+
+## Contributing
+
+jcgom3 and ortizjavier10
+
